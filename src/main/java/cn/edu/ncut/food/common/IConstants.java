@@ -11,4 +11,6 @@ public interface IConstants {
     Integer FAIL = 0;
     Integer OCCUPIED = -3;
 
+    String ADDSUCCESS = "Add Success!";
+    String ADDFAIL = "Add Fail!";
 }
